@@ -1,2 +1,2 @@
-# Exerc-cios-em-Python
+# Exercícios-em-Python
 Resolvendo questões de algoritmos em Python
